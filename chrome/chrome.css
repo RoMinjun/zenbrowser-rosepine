@@ -1,0 +1,10 @@
+
+      @-moz-document url-prefix("chrome:") {
+:root {
+    --zen-colors-primary: #191724 !important;
+    --zen-colors-secondary: #1f1d2e !important;
+    --zen-colors-tertiary: #26233a !important;
+    --zen-colors-border: #524f67 !important;
+}
+
+      }
